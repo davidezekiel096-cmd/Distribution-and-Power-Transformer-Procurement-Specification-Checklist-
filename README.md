@@ -10,7 +10,7 @@ Transformers in utility, renewable and industrial networks are exposed to:
 
 - Continuous load cycling and overload events
 - Lightning and switching surges
-- Extreme heat (Gulf region), cold (Central Asia) and humidity (Southeast Asia)
+- Extreme heat (Middle East and Africa), cold (Central Asia) and humidity (Southeast Asia and South America)
 - Long export transport routes
 - Decades of service with limited maintenance windows
 
@@ -119,6 +119,8 @@ final_review(); pack(); deliver()
 | Management systems | ISO 9001 (certificate shown); CE referenced |
 
 ## Stage 8: Market Configuration Notes
+
+Target regions: the Middle East, Africa, Southeast Asia, Central Asia and South America. Target buyers: utilities, government agencies, EPC contractors, distributors and industrial sites. Example countries:
 
 | Market | Grid Frequency | Typical Configuration Considerations |
 |---|---|---|
